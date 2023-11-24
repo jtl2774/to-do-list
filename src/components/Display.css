@@ -1,0 +1,13 @@
+.line-through{ 
+    text-decoration: line-through;
+}
+
+.delete-button{
+    background-color: blue;
+    color: white;
+}
+
+.add-button{
+    background-color: green;
+    color: white;
+}
